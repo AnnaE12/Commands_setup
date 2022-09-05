@@ -5,5 +5,7 @@ public class BrowserUtils {
 
         // adding some information
 
+        // adding more information
+
     }
 }
